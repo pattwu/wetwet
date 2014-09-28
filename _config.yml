@@ -1,0 +1,8 @@
+name: Photo gallery
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: http://pattwu.github.io/wetwet/
+author:
+    name: Nii Adjetey Sowah
+    twitter: #
