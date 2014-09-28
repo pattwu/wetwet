@@ -1,6 +1,6 @@
 name: Photo gallery
 markdown: redcarpet
-pygments: true
+pygments: false
 permalink: /:year/:month/:title/
 url: http://pattwu.github.io/wetwet/
 author:
